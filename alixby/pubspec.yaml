@@ -31,7 +31,7 @@ dependencies:
   path: ^1.8.0
   hovering: ^1.0.4
   split_view: ^3.1.0
-  flutter_treeview: ^1.0.3+2
+  flutter_treeview: ^1.0.7+1
   filesize: ^2.0.1
   qr_flutter: ^4.0.0
   bot_toast: ^4.0.1
@@ -40,8 +40,9 @@ dependencies:
   file_selector: ^0.8.2
   file_selector_windows: ^0.0.2
   extended_image: ^4.1.0
-  styled_text: ^3.0.1
-  dropfiles_window: ^0.0.2
+  styled_text: ^5.1.0
+  dropfiles_window:
+    path: packages/dropfiles_window
   percent_indicator: ^3.0.1
   argon_buttons_flutter: ^1.1.0
 dev_dependencies:
